@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=arr
+comment0.target=void\ sort(int[])
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=lowIndex\ highIndex
+comment2.target=void\ diverge(int,\ int)
+comment3.params=lowIndex\ middle\ highIndex
+comment3.target=void\ merge(int,\ int,\ int)
+numComments=4
